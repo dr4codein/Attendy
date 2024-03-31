@@ -27,7 +27,3 @@ To install Attendy on your Android device:
 ### Usage
 
 Once installed, you can open Attendy from your app drawer or home screen. Use it to mark attendance and manage attendance records.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
