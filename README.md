@@ -10,7 +10,7 @@ The web version of Attendy allows users to mark their attendance and view attend
 
 You can try out the live demo of the web version [here](https://gray-ambur-50.tiiny.site/).
 
-## Android Application
+## Android Application (Currently Not Working)
 
 The Android version of Attendy provides a mobile-friendly interface for marking attendance and managing attendance records on Android devices.
 
