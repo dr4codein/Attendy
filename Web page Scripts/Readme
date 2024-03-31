@@ -1,28 +1,24 @@
-# Simple Attendance Management System
+1. **Create a Project Directory**:
+   - Create a new folder on your computer where you want to store your project files. Name it something like "my-attendance-project".
 
-This project is a simple attendance management system implemented using HTML, CSS, and JavaScript. It allows users to mark their attendance and view attendance records.
+2. **Create HTML File**:
+   - Inside your project directory, create a new file named `index.html`.
 
-## Demo
+3. **Write HTML Code**:
+   - Open the `index.html` file in a text editor and write the HTML code to create the structure of your web page.
 
-You can try out the live demo of the project [here](https://gray-ambur-50.tiiny.site/).
+4. **Create CSS File**:
+   - Inside your project directory, create a new file named `styles.css`.
 
-## Features
+5. **Write CSS Code**:
+   - Open the `styles.css` file in a text editor and write the CSS code to style the HTML elements.
 
-- **Mark Attendance**: Users can input their name and mark their attendance.
-- **View Attendance Records**: Attendance records are displayed with details such as name, date, and time.
+6. **Create JavaScript File**:
+   - Inside your project directory, create a new file named `script.js`.
 
-## Technologies Used
+7. **Write JavaScript Code**:
+   - Open the `script.js` file in a text editor and write the JavaScript code to add interactivity to your web page.
 
-- HTML
-- CSS
-- JavaScript
-
-## Usage
-
-1. Enter your name in the provided input field.
-2. Click the "Mark Attendance" button to mark your attendance.
-3. View attendance records displayed below.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+8. **Run Your Project**:
+   - Open the `index.html` file in your web browser to view your web page.
+   - You can make changes to your HTML, CSS, and JavaScript files and refresh the browser to see the updates.
