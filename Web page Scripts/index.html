@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Attendance System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Attendance System</h1>
+        <div>
+            <label for="name">Name:</label>
+            <input type="text" id="name" placeholder="Enter your name">
+        </div>
+        <button onclick="markAttendance()">Mark Attendance</button>
+        <button onclick="exportAttendance()">Export to Excel</button>
+        <div id="attendanceList">
+            <h2>Attendance Records</h2>
+            <ul id="records"></ul>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
